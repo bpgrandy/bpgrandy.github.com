@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9304D2FE-7C3F-4AC7-A8F8-6E577A43B093">
+  <lastEdited clientType="local-build-20121218" date="2012-12-18 21:49:08 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Memoirs</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>N 2</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>10/9/11</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Poetry competition @ Catholic Christian? Homeschool, children 5-14, Taara is the accuracy judge, along with three of her colleagues from the Santa Clara review. &#x201C;Parking behind Shrine&#x201D; sign on the way here. comical &#x201C;let&#x2019;s find the right shrine to park next to&#x201D;&#xD;    American suburbanism in a single message&#xD;        -Relgion Petroleum + Park&#xD;They just recited all this Christian psycho-babble&#xD;cults: they cray cray.&#xD;    Hmm Louis Carroll, interesting choice for Christians.&#xD;&#x201C;Sit back &amp; enjoy this ... exxxxxcittttiiiinnnggggg Reeccccciittttinnng!&#x201D;&#xD;She&#x2019;s so proud of herself.&#xD;Everyone is forced to memorize the poem, must be a Christian thing, all about reciting, brainwashing. They are more focused on not messing up than the actual meaning behind the words.</richText>
+  </textBox>
+</content>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A8469CE4-1E69-49DC-8C66-EDCB9A2A271E">
+  <lastEdited clientType="local-build-20121218" date="2012-12-18 21:49:24 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>I Am Cell, We Are Zeitgeist: 9/12/08</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday, September 12, 2008</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>New show link is up:&#x2028;&lt;a href="http://www.kdvs.org/shows/view/show_id/527/date/2008-09-12/"&gt;http://www.kdvs.org/shows/view/show_id/527/date/2008-09-12/&lt;/a&gt;&#xD;New adds:&#x2028;V/A - Lush Life Electronica&#x2028;Blues Control - Puff&#x2028;V/A - The Now Sound of Brazil 2&#x2028;SJ Esau - Small Vessel&#x2028;Olafur Arnalds - Variations of Static&#x2028;Architecture in Helsinki - Places Like This&#x2028;Architecture in Helsinki - In Case We Die&#x2028;Architecture in Helsinki - Fingers Crossed&#xD;2nd to last show... next week in interim so I think I'll prepared a "best of" for my first quarter.&#xA0; Be sure to tune in.&#xA0; Hopefully next quarter I'll get a good time slot, requested a lot of 12-2ams, and some 8-10pms so we'll see.</richText>
+  </textBox>
+</content>

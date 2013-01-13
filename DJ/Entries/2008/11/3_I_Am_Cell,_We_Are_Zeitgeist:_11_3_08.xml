@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A8469CE4-1E69-49DC-8C66-EDCB9A2A271E">
+  <lastEdited clientType="local-build-20121218" date="2012-12-18 21:49:34 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>I Am Cell, We Are Zeitgeist: 11/3/08</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday, November 3, 2008</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;&#xD;&lt;a href="http://kdvs.org/shows/view/show_id/552/date/2008-11-03/"&gt;Show Description/ Playlist&lt;/a&gt;&#xD;KILLER, KILLER show.&#xA0; This is one I actually put some time in to find some good stuff for 'yall, so give it a listen!&#xD;&lt;a href="http://169.237.101.92/archives/2008-11-03_552_192kbps.mp3"&gt;Show Direct Link&lt;/a&gt; (right click to download)&#xD;</richText>
+  </textBox>
+</content>

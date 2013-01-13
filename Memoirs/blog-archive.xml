@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Memoirs</title>
+    <link>file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs</link>
+    <description>Unleashed.
+Unedited.
+Unfiltered.
+
+Raw.</description>
+    <item>
+      <title>WP 4</title>
+      <link>file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/30_WP_4.html</link>
+      <guid isPermaLink="false">77451db1-41a8-4e22-9ba6-547f77ad0502</guid>
+      <pubDate>Sun, 30 Oct 2011 12:17:43 -0700</pubDate>
+      <iweb:comment enabled="1" count="0" link="file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/30_WP_4.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>WP 3</title>
+      <link>file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/18_WP_3.html</link>
+      <guid isPermaLink="false">668a7ebe-5669-4054-bbfe-6ccdc2e4b7e5</guid>
+      <pubDate>Tue, 18 Oct 2011 21:40:31 -0700</pubDate>
+      <iweb:comment enabled="1" count="0" link="file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/18_WP_3.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>N 3</title>
+      <link>file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/18_N_3.html</link>
+      <guid isPermaLink="false">7e81f18e-0aa1-40c0-8487-5078ba0271c6</guid>
+      <pubDate>Tue, 18 Oct 2011 21:08:59 -0700</pubDate>
+      <iweb:comment enabled="1" count="0" link="file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/18_N_3.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>WP 2</title>
+      <link>file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/12_Reflections_on_the_lake.html</link>
+      <guid isPermaLink="false">caf37481-73e1-483f-b8a8-ca8d061e7b48</guid>
+      <pubDate>Wed, 12 Oct 2011 01:15:06 -0700</pubDate>
+      <iweb:comment enabled="1" count="0" link="file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/12_Reflections_on_the_lake.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>N 2</title>
+      <link>file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/9_N_2.html</link>
+      <guid isPermaLink="false">2a5b314d-8e6d-4358-9f25-ac8f41c8895b</guid>
+      <pubDate>Sun, 9 Oct 2011 21:08:55 -0700</pubDate>
+      <iweb:comment enabled="1" count="0" link="file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/9_N_2.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>WP 1</title>
+      <link>file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/8_Simplicity.html</link>
+      <guid isPermaLink="false">e35b2478-a576-4068-b6e6-861784d2e756</guid>
+      <pubDate>Sat, 8 Oct 2011 01:22:48 -0700</pubDate>
+      <iweb:comment enabled="1" count="0" link="file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/8_Simplicity.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>(transcribed from notebook, from now on noted as N vs. WP [word processor])</title>
+      <link>file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/7__3.html</link>
+      <guid isPermaLink="false">700fb762-cc12-4e83-a096-7f4ed25c9c61</guid>
+      <pubDate>Fri, 7 Oct 2011 21:08:52 -0700</pubDate>
+      <iweb:comment enabled="1" count="0" link="file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs/Entries/2011/10/7__3.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>M/d/yy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/bpgrandy/Dropbox/Public/loading/Memoirs</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

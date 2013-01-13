@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="9304D2FE-7C3F-4AC7-A8F8-6E577A43B093">
+  <lastEdited clientType="local-build-20121218" date="2012-12-18 21:49:09 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Memoirs</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>N 3</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>10/18/11</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I took a nap in the middle of the day. I couldn&#x2019;t shower because I was waiting on a call. It put me in this weird limbo state of decision making. Two creatures were walking side by side, one was a dog, another was similar but they were both walking on 4 legs. They were discussing something meaningful in a high level of english when they spotted me.&#xD;&#xD;[drawing on two animals with an arrow that indicates gradient spotlight]&#xD;&#xD;    We made eye contact  and they stopped talking and snarled, as if in a reactionary manner. The snarl startled me and I found myself fully awake on my couch. I haven&#x2019;t fully dismissed the idea of an alternate reality that is the dream world. These two creatures/ souls chose to embody an animal form for whatever reason. It was clear to them that I didn&#x2019;t belong and they exited me from their world with a quick snarl.         .            .        almost habitual.</richText>
+  </textBox>
+</content>

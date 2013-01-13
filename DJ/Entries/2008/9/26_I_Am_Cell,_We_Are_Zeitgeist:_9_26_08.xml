@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A8469CE4-1E69-49DC-8C66-EDCB9A2A271E">
+  <lastEdited clientType="local-build-20121218" date="2012-12-18 21:49:25 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>I Am Cell, We Are Zeitgeist: 9/26/08</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday, September 26, 2008</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Last safe-harbor show, thought I'd take advantage and go all hip-hop:&#xD;&lt;a href="http://kdvs.org/shows/view/show_id/527/date/2008-09-26/"&gt;http://kdvs.org/shows/view/show_id/527/date/2008-09-26/&lt;/a&gt;&#xD;Once again, my new time slot next week is Mondays 9:30-12am.&#xD;Stream: &lt;a href="http://kdvs.org/listen/m3u/show_id/527/date/2008-09-26"&gt;http://kdvs.org/listen/m3u/show_id/527/date/2008-09-26&lt;/a&gt;&#x2028;Direct link: &lt;a href="http://169.237.101.92/archives/2008-09-26_527_192kbps.mp3"&gt;http://169.237.101.92/archives/2008-09-26_527_192kbps.mp3&lt;/a&gt;&#xD;New Adds:&#x2028;Doomtree - S/T&#x2028;Back to the Old School - V/A&#x2028;Caveman Theory - The Stone Quartet&#x2028;Alltruisms - Clusterbombs&#x2028;Akrobatik - Absolute Value&#x2028;Yelle - Pop Up&#xD;Yawn, I would talk more, but I'm actually posting after my show, so soy muy sueno.&#x2028;Happy Listening</richText>
+  </textBox>
+</content>
